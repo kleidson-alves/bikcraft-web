@@ -1,0 +1,26 @@
+.interna_portfolio {
+  background: url("../img/bg-portfolio.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.quote_clientes{
+  padding: 60px 0;
+  max-width: 500px;
+  margin:  0 auto;
+}
+
+.quote_clientes p{
+  font-family: Georgia, 'Times New Roman', serif;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+}
+
+.quote_clientes cite {
+  font-weight: bold;
+  font-size: 18px;
+  float: right;
+  font-style: normal;
+  margin: 25px 0;
+}
